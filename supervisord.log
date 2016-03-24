@@ -1,0 +1,81 @@
+2016-03-23 07:42:11,337 INFO supervisord started with pid 2379
+2016-03-23 07:42:12,342 INFO spawned: 'novnc' with pid 2382
+2016-03-23 07:42:12,344 INFO spawned: 'xvfb' with pid 2383
+2016-03-23 07:42:12,347 INFO spawned: 'x11vnc' with pid 2384
+2016-03-23 07:42:12,351 INFO spawned: 'fluxbox' with pid 2385
+2016-03-23 07:42:13,385 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 07:42:13,386 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 07:42:13,386 INFO success: x11vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 07:42:13,386 INFO success: fluxbox entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 07:53:27,515 INFO exited: x11vnc (exit status 0; expected)
+2016-03-23 09:49:40,415 WARN received SIGINT indicating exit request
+2016-03-23 09:49:40,418 INFO waiting for novnc, xvfb, fluxbox to die
+2016-03-23 09:49:40,489 INFO stopped: fluxbox (exit status 0)
+2016-03-23 09:49:41,015 WARN received SIGINT indicating exit request
+2016-03-23 09:49:41,123 INFO stopped: xvfb (exit status 0)
+2016-03-23 09:49:41,125 INFO stopped: novnc (exit status 143)
+2016-03-23 09:49:42,656 INFO supervisord started with pid 3837
+2016-03-23 09:49:43,658 INFO spawned: 'novnc' with pid 3840
+2016-03-23 09:49:43,660 INFO spawned: 'xvfb' with pid 3841
+2016-03-23 09:49:43,662 INFO spawned: 'x11vnc' with pid 3842
+2016-03-23 09:49:43,664 INFO spawned: 'fluxbox' with pid 3843
+2016-03-23 09:49:44,706 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:49:44,706 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:49:44,706 INFO success: x11vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:49:44,706 INFO success: fluxbox entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:52:05,913 INFO exited: x11vnc (exit status 0; expected)
+2016-03-23 09:52:22,313 WARN received SIGINT indicating exit request
+2016-03-23 09:52:22,314 INFO waiting for novnc, xvfb, fluxbox to die
+2016-03-23 09:52:22,324 INFO stopped: fluxbox (exit status 0)
+2016-03-23 09:52:23,357 INFO stopped: xvfb (exit status 0)
+2016-03-23 09:52:23,362 INFO stopped: novnc (exit status 143)
+2016-03-23 09:52:24,853 INFO supervisord started with pid 4070
+2016-03-23 09:52:25,857 INFO spawned: 'novnc' with pid 4073
+2016-03-23 09:52:25,861 INFO spawned: 'xvfb' with pid 4074
+2016-03-23 09:52:25,865 INFO spawned: 'x11vnc' with pid 4075
+2016-03-23 09:52:25,888 INFO spawned: 'fluxbox' with pid 4076
+2016-03-23 09:52:26,902 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:52:26,903 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:52:26,903 INFO success: x11vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:52:26,903 INFO success: fluxbox entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:55:01,913 WARN received SIGINT indicating exit request
+2016-03-23 09:55:01,913 INFO waiting for novnc, xvfb, x11vnc, fluxbox to die
+2016-03-23 09:55:01,920 INFO stopped: fluxbox (exit status 0)
+2016-03-23 09:55:01,922 INFO stopped: x11vnc (exit status 2)
+2016-03-23 09:55:01,933 INFO stopped: xvfb (exit status 0)
+2016-03-23 09:55:01,935 INFO stopped: novnc (exit status 143)
+2016-03-23 09:55:03,045 INFO supervisord started with pid 4186
+2016-03-23 09:55:04,047 INFO spawned: 'novnc' with pid 4189
+2016-03-23 09:55:04,049 INFO spawned: 'xvfb' with pid 4190
+2016-03-23 09:55:04,051 INFO spawned: 'x11vnc' with pid 4191
+2016-03-23 09:55:04,054 INFO spawned: 'fluxbox' with pid 4192
+2016-03-23 09:55:04,098 INFO exited: fluxbox (exit status 1; not expected)
+2016-03-23 09:55:04,110 INFO exited: novnc (exit status 1; not expected)
+2016-03-23 09:55:05,093 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:55:05,093 INFO success: x11vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:55:05,280 INFO spawned: 'fluxbox' with pid 4211
+2016-03-23 09:55:05,283 INFO spawned: 'novnc' with pid 4212
+2016-03-23 09:55:05,316 INFO exited: novnc (exit status 1; not expected)
+2016-03-23 09:55:06,523 INFO success: fluxbox entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-23 09:55:07,525 INFO spawned: 'novnc' with pid 4244
+2016-03-23 09:55:07,692 INFO exited: novnc (exit status 1; not expected)
+2016-03-23 09:55:10,698 INFO spawned: 'novnc' with pid 4255
+2016-03-23 09:55:10,737 INFO exited: novnc (exit status 1; not expected)
+2016-03-23 09:55:11,739 INFO gave up: novnc entered FATAL state, too many start retries too quickly
+2016-03-23 09:55:26,758 INFO exited: x11vnc (exit status 0; expected)
+2016-03-23 09:55:35,658 WARN received SIGINT indicating exit request
+2016-03-23 09:55:35,658 INFO waiting for xvfb, fluxbox to die
+2016-03-23 09:55:35,664 INFO stopped: fluxbox (exit status 0)
+2016-03-23 09:55:36,480 WARN received SIGINT indicating exit request
+2016-03-23 09:55:36,488 INFO stopped: xvfb (exit status 0)
+2016-03-24 00:18:09,040 INFO supervisord started with pid 1605
+2016-03-24 00:18:10,048 INFO spawned: 'novnc' with pid 1609
+2016-03-24 00:18:10,053 INFO spawned: 'xvfb' with pid 1610
+2016-03-24 00:18:10,080 INFO spawned: 'x11vnc' with pid 1611
+2016-03-24 00:18:10,086 INFO spawned: 'fluxbox' with pid 1613
+2016-03-24 00:18:10,198 INFO exited: fluxbox (exit status 1; not expected)
+2016-03-24 00:18:11,170 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-24 00:18:11,170 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-24 00:18:11,170 INFO success: x11vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-03-24 00:18:11,282 INFO spawned: 'fluxbox' with pid 1638
+2016-03-24 00:18:12,793 INFO success: fluxbox entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

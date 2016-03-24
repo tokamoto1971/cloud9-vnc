@@ -1,0 +1,11 @@
+{
+  "name": "FirstApp",
+  "version": "0.1.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.2"
+  }
+}
