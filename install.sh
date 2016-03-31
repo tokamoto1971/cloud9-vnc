@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd /home/ubuntu/workspace
 sudo apt-get update
 sudo apt-get install supervisor xvfb fluxbox x11vnc libnotify-dev unifont
+tar xjf firefox-45.0.1.tar.bz2 -C ~/
 
 cd /home/ubuntu
 
