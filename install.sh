@@ -1,10 +1,8 @@
 #!/bin/bash
 
 cd /home/ubuntu/workspace
-
+sudo apt-get update
 sudo apt-get install supervisor xvfb fluxbox x11vnc libnotify-dev unifont
-
-npm install electron-prebuilt -D
 
 cd /home/ubuntu
 
